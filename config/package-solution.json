@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-feedback-form-client-side-solution",
+    "id": "666d6402-03f8-4e2c-802f-0146c4132d6b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sp-feedback-form description"
+      },
+      "longDescription": {
+        "default": "sp-feedback-form description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sp-feedback-form Feature",
+        "description": "The feature that activates elements of the sp-feedback-form solution.",
+        "id": "93b253c4-64e4-4427-925e-2d3031e84777",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-feedback-form.sppkg"
+  }
+}

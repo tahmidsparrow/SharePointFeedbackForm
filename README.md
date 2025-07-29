@@ -10,8 +10,6 @@ This project welcomes contributions and suggestions. Most contributions require 
 
 THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
 
-# sp-feedback-form
-
 ## Summary
 
 Short summary on functionality and used technologies.
@@ -45,10 +43,6 @@ Short summary on functionality and used technologies.
 | ------- | ---------------- | --------------- |
 | 1.1     | March 10, 2021   | Update comment  |
 | 1.0     | January 29, 2021 | Initial release |
-
-## Disclaimer
-
-**THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
 ---
 
